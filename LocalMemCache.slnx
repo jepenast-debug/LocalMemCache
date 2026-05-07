@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="LocalCache.App/LocalCache.App.csproj" />
+  <Project Path="LocalCache.Domain/LocalCache.Domain.csproj" />
+  <Project Path="LocalCache.Infra/LocalCache.Infra.csproj" />
+  <Project Path="LocalCache.Test/LocalCache.Test.csproj" Id="e40d46fa-301d-4c92-a51e-19123eaabc18" />
+  <Project Path="LocalMemCache/LocalMemCache.csproj" />
+</Solution>
